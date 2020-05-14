@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://i.ibb.co/j8vSRMP/photo.jpg");
+    url("https://github.com/vedantsakhardande/vedantsakhardande.github.io/blob/master/background.jpg?raw=true");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://i.ibb.co/j8vSRMP/photo.jpg") center center fixed;
+    url("https://github.com/vedantsakhardande/vedantsakhardande.github.io/blob/master/background.jpg?raw=true") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://i.ibb.co/j8vSRMP/photo.jpg") !important;
+      url("https://github.com/vedantsakhardande/vedantsakhardande.github.io/blob/master/background.jpg?raw=true") !important;
   }
 }
