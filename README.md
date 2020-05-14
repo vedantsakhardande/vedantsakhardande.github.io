@@ -1,2 +1,0 @@
-# vedantsakhardande.github.io
-GITFOLIO
